@@ -1,0 +1,14 @@
+name: Part-up
+desc: Open source platform and community for decentralized collaboration. Marketplace for teamwork.
+site: https://part-up.com
+tags:
+# Note those are tags categorizing your project, not issue labels.
+- js
+- sass
+- meteor
+- front-end
+- docker
+- open-source
+upforgrabs:
+  name: beginner
+  link: https://github.com/part-up/part-up/labels/beginner
